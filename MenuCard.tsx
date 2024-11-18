@@ -1,5 +1,5 @@
 import React from 'react';
-import { MenuItem } from '../types';
+import { MenuItem } from './types';
 import { Leaf } from 'lucide-react';
 
 interface MenuCardProps {
