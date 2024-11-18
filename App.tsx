@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import { menuItems } from './data/menuItems';
-import MenuCard from './components/MenuCard';
-import ProductModal from './components/ProductModal';
+import { menuItems } from './menuItems';
+import MenuCard from './MenuCard';
+import ProductModal from './ProductModal';
 import { Leaf, Flower2 } from 'lucide-react';
 
 function App() {
